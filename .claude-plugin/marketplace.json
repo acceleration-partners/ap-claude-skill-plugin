@@ -1,9 +1,21 @@
 {
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "ap-claude-skill-plugin",
+  "description": "Acceleration Partners APVision plugin for affiliate performance data and analytics",
+  "owner": {
+    "name": "Acceleration Partners",
+    "email": "support@accelerationpartners.com"
+  },
   "plugins": [
     {
       "name": "ap-vision",
-      "path": ".",
-      "description": "APVision MCP skill for affiliate performance data"
+      "description": "APVision MCP skill for affiliate performance data — provides tools and instructions for working with AP affiliate data, building prototypes, and querying performance analytics.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/acceleration-partners/ap-claude-skill-plugin.git"
+      },
+      "homepage": "https://github.com/acceleration-partners/ap-claude-skill-plugin"
     }
   ]
 }
