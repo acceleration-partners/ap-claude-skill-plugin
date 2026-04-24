@@ -1,0 +1,9 @@
+{
+  "plugins": [
+    {
+      "name": "ap-vision",
+      "path": ".",
+      "description": "APVision MCP skill for affiliate performance data"
+    }
+  ]
+}
