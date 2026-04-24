@@ -1,0 +1,17 @@
+{
+  "name": "ap-vision",
+  "description": "Acceleration Partners APVision MCP skill — provides tools and instructions for working with AP affiliate data, building prototypes, and querying performance analytics.",
+  "author": {
+    "name": "Acceleration Partners",
+    "url": "https://accelerationpartners.com"
+  },
+  "userConfig": {
+    "mcp_url": {
+      "type": "string",
+      "title": "APVision MCP Server URL",
+      "description": "URL of the AP MCP server (Lambda Function URL)",
+      "required": true,
+      "sensitive": false
+    }
+  }
+}

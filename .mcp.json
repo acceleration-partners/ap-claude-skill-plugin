@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ap-vision": {
+      "type": "http",
+      "url": "${ap-vision:mcp_url}"
+    }
+  }
+}
