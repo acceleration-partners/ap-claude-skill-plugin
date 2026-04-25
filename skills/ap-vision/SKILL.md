@@ -11,7 +11,7 @@ when_to_use: >
 
 # APVision MCP — Working Guide
 
-APVision is the Acceleration Partners data platform. This MCP server exposes affiliate marketing performance data: trends, benchmarks, CRM publishers, merchants, and more. Test 1 2 3 4 77
+APVision is the Acceleration Partners data platform. This MCP server exposes affiliate marketing performance data: trends, benchmarks, CRM publishers, merchants, and more. Test 69 69
 
 ## Authentication
 
