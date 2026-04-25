@@ -1,7 +1,7 @@
 {
-  "name": "ap-vision",
-  "version": "1.0.4",
-  "description": "Acceleration Partners APVision MCP skill — provides tools and instructions for working with AP affiliate data, building prototypes, and querying performance analytics.",
+  "name": "ap-claude-skill-plugin",
+  "version": "1.0.5",
+  "description": "Acceleration Partners AP MCP skill — provides tools and instructions for working with AP affiliate data, building prototypes, and querying performance analytics.",
   "author": {
     "name": "Acceleration Partners",
     "url": "https://accelerationpartners.com"
