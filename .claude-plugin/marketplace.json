@@ -9,7 +9,7 @@
   "plugins": [
     {
       "name": "ap-vision",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "description": "APVision MCP skill for affiliate performance data — provides tools and instructions for working with AP affiliate data, building prototypes, and querying performance analytics.",
       "category": "productivity",
       "source": {
