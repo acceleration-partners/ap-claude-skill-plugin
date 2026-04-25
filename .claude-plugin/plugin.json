@@ -1,6 +1,6 @@
 {
   "name": "ap-claude-skill-plugin",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "description": "Acceleration Partners AP MCP skill — provides tools and instructions for working with AP affiliate data, building prototypes, and querying performance analytics.",
   "author": {
     "name": "Acceleration Partners",
