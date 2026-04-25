@@ -9,7 +9,7 @@
   "plugins": [
     {
       "name": "ap-claude-skill-plugin",
-      "version": "1.0.5",
+      "version": "1.0.6",
       "description": "AP MCP skill for affiliate performance data — provides tools and instructions for working with AP affiliate data, building prototypes, and querying performance analytics.",
       "category": "productivity",
       "source": {
