@@ -13,8 +13,8 @@
       "description": "AP MCP skill for affiliate performance data — provides tools and instructions for working with AP affiliate data, building prototypes, and querying performance analytics.",
       "category": "productivity",
       "source": {
-        "source": "github",
-        "repo": "acceleration-partners/ap-claude-skill-plugin"
+        "source": "git",
+        "repo": "https://github.com/acceleration-partners/ap-claude-skill-plugin.git"
       },
       "homepage": "https://github.com/acceleration-partners/ap-claude-skill-plugin"
     }
